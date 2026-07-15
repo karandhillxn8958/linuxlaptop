@@ -1,1 +1,1 @@
-{"name":"linuxlaptop","version":"1.0.0"}
+{“name”:”linuxlaptop”,”version”:”1.0.0”,”dependencies”:{“express”:”^4.19.2”,”node-telegram-bot-api”:”^0.66.0”}}
